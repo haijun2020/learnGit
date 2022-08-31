@@ -4,4 +4,8 @@ ni hao!
 hello java!
 =======
 hello python..
+<<<<<<< HEAD
 >>>>>>> hai
+=======
+hello git!
+>>>>>>> jun
