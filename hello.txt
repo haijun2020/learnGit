@@ -1,3 +1,7 @@
 hello git! hello admin!
 ni hao!
+<<<<<<< HEAD
 hello java!
+=======
+hello python..
+>>>>>>> hai
